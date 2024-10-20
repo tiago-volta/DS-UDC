@@ -1,6 +1,6 @@
 ## Diseño Software - UDC  2024/2025
 
-## Estudiantes - Students  
+# Estudiantes - Students  
 
 Nombre 1 (Name 1): Pablo Herrero Díaz
 
