@@ -1,1 +1,1 @@
-# Diseño Software - UDC  2024/2025
+# Deseño Software - UDC  2024/2025
