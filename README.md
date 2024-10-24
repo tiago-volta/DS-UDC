@@ -5,3 +5,10 @@
 Nombre 1 (Name 1): Pablo Herrero Díaz
 
 Nombre 2 (Name 2): Tiago Da Costa Teixeira Veloso E Volta
+
+# Notas
+
+- **P1**:   / 10
+- **P2**:  / 10
+- **P3**:     /10
+- **Examen prácticas**:   /10
