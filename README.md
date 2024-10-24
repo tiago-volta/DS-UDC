@@ -4,7 +4,7 @@
 
 Nombre 1 (Name 1): Pablo Herrero Díaz
 
-Nombre 2 (Name 2): Tiago Da Costa Teixeira Veloso E Volta
+Nombre 2 (Name 2): Tiago da Costa Teixeira Veloso e Volta
 
 # Notas
 
